@@ -6,6 +6,7 @@
 import Navbar from "$lib/components/Navbar.svelte";
 	import PerfectPartner from "$lib/components/home/PerfectPartner.svelte";
 	import WePutLess from "$lib/components/home/WePutLess.svelte";
+	import Step from "$lib/components/home/Step.svelte";
     
   </script>
   <svelte:head>
@@ -42,7 +43,7 @@ import Navbar from "$lib/components/Navbar.svelte";
     <main class="relative z-10 bg-white">
       <WePutLess/>
   <PerfectPartner/>
-      
+      <Step/>
     </main>
   <InclusiveMission/>
   
