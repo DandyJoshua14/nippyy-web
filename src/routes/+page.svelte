@@ -16,17 +16,20 @@ import Navbar from "$lib/components/Navbar.svelte";
     <meta name="author" content="Softnext Solutions" />
   
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://nippyy.com/" /> <meta property="og:title" content="Nippyy — Instant Global Payments & Borderless Banking" />
+    <meta property="og:url" content="https://nippyy-web.vercel.app/" />
+    <meta property="og:title" content="Nippyy — Instant Global Payments & Borderless Banking" />
     <meta property="og:description" content="Manage, grow, and move your money globally with ease. Join thousands using Nippyy for seamless international transactions." />
-    <meta property="og:image" content="/og-image.png" /> <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content="https://nippyy.com/" />
+    <meta property="og:image" content="https://nippyy-web.vercel.app/og-image.png" />
+  
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://nippyy-web.vercel.app/" />
     <meta property="twitter:title" content="Nippyy — Instant Global Payments & Borderless Banking" />
     <meta property="twitter:description" content="Send and receive money instantly across borders with zero stress. The future of global banking is here." />
-    <meta property="twitter:image" content="/og-image.png" />
+    <meta property="twitter:image" content="https://nippyy-web.vercel.app/og-image.png" />
   
     <link rel="icon" type="image/png" href="/nippy-favicon.png" />
     
-    <link rel="canonical" href="https://nippyy.com/" />
+    <link rel="canonical" href="https://nippyy-web.vercel.app/" />
   
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" >
