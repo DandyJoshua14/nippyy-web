@@ -1,3 +1,9 @@
+<script>
+	import JoinNippyCTA from "./JoinNippyCTA.svelte";
+
+</script>
+
+<JoinNippyCTA/>
 <footer class="bg-[#0B0D47] text-white pt-24 pb-12 px-6">
     <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-16 mb-24">
       <div class="col-span-1">
