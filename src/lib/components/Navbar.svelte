@@ -37,9 +37,9 @@
           </div>
           <div class="absolute left-0 top-full hidden group-hover:block pt-2 w-48 transition-all">
             <div class="bg-white border border-slate-100 rounded-xl shadow-xl py-2 overflow-hidden">
-              <a href="#" class="block px-4 py-2 hover:bg-slate-50 hover:text-cyan-600 transition">Item 1</a>
-              <a href="#" class="block px-4 py-2 hover:bg-slate-50 hover:text-cyan-600 transition">Item 2</a>
-              <a href="#" class="block px-4 py-2 hover:bg-slate-50 hover:text-cyan-600 transition">Item 3</a>
+              <a href="about" class="block px-4 py-2 hover:bg-slate-50 hover:text-cyan-600 transition">About</a>
+              <a href="faq" class="block px-4 py-2 hover:bg-slate-50 hover:text-cyan-600 transition">FAQs</a>
+              
             </div>
           </div>
         </div>
@@ -98,9 +98,8 @@
             </button>
             {#if activeDropdown === 'company'}
               <div transition:slide class="pl-4 mt-2 flex flex-col gap-3 border-l-2 border-slate-100">
-                <a href="#" class="text-slate-600">Item 1</a>
-                <a href="#" class="text-slate-600">Item 2</a>
-                <a href="#" class="text-slate-600">Item 3</a>
+                <a href="/about" class="text-slate-600">About</a>
+                <a href="/faq" class="text-slate-600">FAQs</a>
               </div>
             {/if}
           </div>
