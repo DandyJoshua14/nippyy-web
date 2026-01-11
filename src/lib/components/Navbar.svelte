@@ -21,9 +21,11 @@
   
   <div class="relative z-50 bg-white border-b border-slate-50">
     <nav class="flex items-center justify-between px-6 py-4 max-w-7xl mx-auto">
-      <div class="flex-shrink-0">
-        <img src="/logo.png" alt="Nippyy Logo" class="h-8" />
-      </div>
+        <a href="/">
+            <div class="flex-shrink-0">
+              <img src="/logo.png" alt="Nippyy Logo" class="h-8" />
+            </div>
+        </a>
   
       <div class="hidden md:flex items-center gap-10 text-[15px] font-medium text-slate-800">
         <div class="relative group cursor-pointer">
