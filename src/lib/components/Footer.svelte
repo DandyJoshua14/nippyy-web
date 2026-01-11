@@ -36,8 +36,8 @@
     <div>
       <h4 class="font-bold text-sm mb-6">Company</h4>
       <ul class="space-y-4 text-slate-400 text-sm">
-        <li><a href="#" class="hover:text-white transition">About Us</a></li>
-        <li><a href="#" class="hover:text-white transition">FAQ</a></li>
+        <li><a href="/about" class="hover:text-white transition">About Us</a></li>
+        <li><a href="/faq" class="hover:text-white transition">FAQ</a></li>
       </ul>
     </div>
 
